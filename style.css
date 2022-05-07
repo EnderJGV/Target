@@ -6,7 +6,7 @@
 }
 
 body{
-    background: rgb(214, 226, 240);
+    background: hsl(212, 45%, 89%);;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -19,7 +19,7 @@ body{
 
 }
 .box{
-    background-color: #fff;
+    background-color: hsl(0, 0%, 100%);
     padding: 10px 12px;
     border: none;
     border-radius: 10px;
@@ -44,7 +44,7 @@ div .text{
 .text-sub{
     font-weight: 300;
     font-size: .8em;
-    color: #8d9195;
+    color: hsl(218, 44%, 22%);
 }
 .attribution {
     font-size: 11px;
